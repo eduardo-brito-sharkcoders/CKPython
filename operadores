@@ -1,0 +1,26 @@
+Operadores Aritméticos:
+
+    =   atribuição
+    +   adição
+    -   subtração
+    *   multiplicação
+    /   divisão
+    **  potênciação
+    %   resto da divisão
+
+Operadores Condicionais:
+
+    ==  igual a
+    !=  diferente de
+    >=  maior ou igual a
+    <=  menor ou igual a
+
+    >   maior que
+    <   menor que
+
+Operadores Lógicos:
+
+    not negação
+    and e
+    or  ou
+
